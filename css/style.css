@@ -1,0 +1,100 @@
+body{
+	background-image: url(kekduna_kotta.png);
+}
+.divegy{
+	color: #D3D3D3 ;
+	background-color: #D3D3D3 ; 
+	width: 50%;  
+	margin-left: 5% ;
+	border: 5px; 
+	border-color:#D3D3D3; 
+	border-style: solid; 
+	border-radius:15px
+	
+
+}
+.bejelolt{
+	color:  #F8F8FF; 
+	background-color: #D3D3D3 ;
+	border:2px;
+	border-color:#D3D3D3; 
+	border-style: solid; 
+	border-radius: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.jeloletlen{
+	color: #696969; 
+	background-color:#D3D3D3; 
+	border:2px;
+	border-color:#D3D3D3; 
+	border-style: solid; 
+	border-radius: 5px;
+	font-family:Arial, Helvetica, sans-serif;
+
+}
+.h1port{
+	color: #D3D3D3; 
+	margin-left: 10%;
+	font-family:Arial, Helvetica, sans-serif;
+
+	
+}
+.h1nev{
+	color: #000000; 
+	margin-left: 50%;
+	font-family:Arial, Helvetica, sans-serif;
+
+
+}
+.h1cim{
+	text-align: center;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+.h2rolam{
+	color: #000000; 
+	background-color: #D3D3D3; 
+	margin-left: 20%; 
+	margin-right: 20%; 
+	border: 2px;
+	border-color:#D3D3D3; 
+	border-style: solid; 
+	border-radius: 5px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+p{
+	color: black; 
+	background-color: #D3D3D3; 
+	text-align: center;
+	border: 2px;
+	border-color:#D3D3D3; 
+	border-style: solid; 
+	border-radius: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.divkepnagy{
+	color: D3D3D3; 
+	background-color:D3D3D3 ; 
+	width: 50%;  
+	margin-left:20%;
+	margin-right:20%;
+	border: 2px;
+	border-color:D3D3D3 ; 
+	border-style: solid; 
+	border-radius: 5px;
+	display: block;
+
+}
+img{
+	margin-left: 50%
+	width: 400px;
+	height: 360px;
+
+	
+}
+video{
+	margain-left: 50%
+	width: 400px;
+	height: 360px;
+}
